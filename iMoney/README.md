@@ -1,6 +1,6 @@
 # iMoney App
 
-This app is based on Firebase database. Users can upload their daily spendings and earnings with this app. 
+This app is based on Firebase database. Users can upload their daily spendings and earnings with this app. It is the final project of course CSE 438 at WUSTL completed by a team of 3 members. 
 
 Use a valid email address to register a new account so that if someday you forget your password, you can reset it by varifying
 your email. You can add and delete accounts, such as your 'cash', 'BoA debit card' etc. Also, multiple categories of daily
